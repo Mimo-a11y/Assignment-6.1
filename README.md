@@ -13,5 +13,4 @@ Both notebooks include: data loading, preprocessing (label encoding), model trai
 ## Files
 - `Activity4_01.ipynb` — Decision tree model, evaluation, and notes.
 - `Activity4_02.ipynb` — Random Forest & Extra Trees models, comparative evaluation, and feature importance.
-- `requirements.txt` — Python libraries needed to run the notebooks.
 - `README.md` — This file.
